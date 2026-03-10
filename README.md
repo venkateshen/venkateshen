@@ -16,44 +16,43 @@ I enjoy learning new technologies, improving problem-solving skills, and collabo
 
 ## 🛠️ Skills
 
-### Programming Languages
-- Python
-- JavaScript
-- HTML
-- CSS
+<p align="left">
 
-### Frameworks & Libraries
-- React.js
-- Node.js
-- Express.js
-- Bootstrap
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
 
-### Databases
-- SQLite
-- SQL
-
-### Tools & Technologies
-- Git
-- GitHub
-- REST APIs
-- VS Code
+</p>
 
 ---
 
 ## 📂 Projects
 
-### 🌱 Plant Moisture Monitoring System
-A project designed to monitor soil moisture levels to help maintain proper watering conditions for plants.
+### 🔎 Wikipedia Search Application
 
-**Technologies Used:**
-- Python
-- Sensors
-- Microcontroller Integration
+A web application that allows users to search Wikipedia articles and view results dynamically using an API.
 
----
+**Features**
 
-### 🌐 Full Stack Web Applications
-Built responsive web applications with modern UI and backend APIs using React, Node.js, and databases.
+- Real-time search results  
+- Responsive user interface  
+- Fetching data from Wikipedia API  
+
+**Technologies Used**
+
+- HTML  
+- CSS  
+- JavaScript  
+- REST API  
 
 ---
 
@@ -64,16 +63,17 @@ Built responsive web applications with modern UI and backend APIs using React, N
 ---
 
 ## 🌱 Currently Learning
-- Advanced Backend Development
-- System Design
-- Data Structures & Algorithms
+
+- Advanced Backend Development  
+- System Design  
+- Data Structures & Algorithms  
 
 ---
 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/venkateshen  
-- LinkedIn: [Venkatesh Gowda](https://www.linkedin.com/in/venkatesh-gowda-007)
+- LinkedIn: https://www.linkedin.com/in/imvenky/
 
 ---
 
